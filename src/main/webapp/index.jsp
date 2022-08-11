@@ -82,10 +82,10 @@
                      Musica favorita:
                  </td>
                  <td>
-                     <select name="misica" multiple class="default">
-                         <option value="rock">Rock</option>
-                         <option value="coutry">Coutry</option>
-                         <option value="gospel">Gospel</option>
+                     <select name="musica" multiple class="default">
+                         <option name="opc" value="rock">Rock</option>
+                         <option name="opc" value="coutry">Coutry</option>
+                         <option name="opc" value="gospel">Gospel</option>
                      </select>
                  </td>
              </tr>
